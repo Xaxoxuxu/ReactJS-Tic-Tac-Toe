@@ -1,3 +1,6 @@
+Build status
+[![Netlify Status](https://api.netlify.com/api/v1/badges/928920a8-3c23-4bf2-8738-a24d646620d6/deploy-status)](https://app.netlify.com/sites/tic-tac-toe-xaxo/deploys)
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
